@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YomiganaCamera</string>
+    <string name="button">Button</string>
+    <string name="ContentDescription" />
+</resources>
